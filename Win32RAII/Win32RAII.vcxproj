@@ -147,9 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Handle.hpp" />
-    <ClInclude Include="Sockets.hpp" />
     <ClInclude Include="Win32RAII.hpp" />
-    <ClInclude Include="__Error__.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -6,6 +6,8 @@
 #include "Win32RAII.hpp"
 
 int main() {
+	void *program_info = GetModuleHandle(NULL);
+
 	return 0;
 }
 

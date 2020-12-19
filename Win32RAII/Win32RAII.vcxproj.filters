@@ -26,11 +26,5 @@
     <ClInclude Include="Handle.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Sockets.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="__Error__.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
