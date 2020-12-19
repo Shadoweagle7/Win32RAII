@@ -26,5 +26,11 @@
     <ClInclude Include="Handle.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="File.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TChar.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

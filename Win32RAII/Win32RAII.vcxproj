@@ -146,7 +146,9 @@
     <ClCompile Include="Win32RAII.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="File.hpp" />
     <ClInclude Include="Handle.hpp" />
+    <ClInclude Include="TChar.hpp" />
     <ClInclude Include="Win32RAII.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
